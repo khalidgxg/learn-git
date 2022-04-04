@@ -1,3 +1,3 @@
 <?php
-from test branch
-test from main
+echo "from test branch";
+echo "from main branch";
